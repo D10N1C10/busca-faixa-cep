@@ -12,7 +12,7 @@ To collect data from a website and then write the results to a file.
 - Python 3.x
 - Geckodriver
 - Firefox
-- Some python libraries folowing
+- Some python libraries
 
 ## Installing
 
