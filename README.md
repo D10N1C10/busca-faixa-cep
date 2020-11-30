@@ -1,4 +1,4 @@
-# busca-cep
+# busca-faixa-cep
 
 ## Scenario
 To collect data from a website and then write the results to a file.
