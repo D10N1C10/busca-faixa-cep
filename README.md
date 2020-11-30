@@ -35,5 +35,9 @@ pip install -r requirements.txt
 ```
 python buscafaixacep.py
 ```
+You can modify the flag values:
+- visualize: True (to visualize the steps on the firefox browser)
+- printData: True (to print the data of each table)
+
 ## Result
 In file: "records.json"
