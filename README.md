@@ -35,3 +35,5 @@ pip install -r requirements.txt
 ```
 python buscafaixacep.py
 ```
+## Result
+In file: "records.json"
