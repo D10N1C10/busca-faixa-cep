@@ -33,5 +33,5 @@ pip install -r requirements.txt
 
 ## Running the code
 ```
-python buscacep.py
+python buscafaixacep.py
 ```
